@@ -18,3 +18,6 @@ function twoSum(nums: number[], target: number): number[] {
 
   return [];
 }
+
+// Time complexity: O(n)
+// Space complexity: O(n)
